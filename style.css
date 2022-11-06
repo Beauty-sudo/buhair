@@ -1,0 +1,16 @@
+.firsttable tr td{
+    width: 90px;
+    height: 30px;
+    border: 1px solid green;
+    text-align: center;
+    padding: 5px;
+}
+.firsttable{
+    border-collapse: collapse;
+}
+img{
+    float: left;
+    margin-right: 20px;
+    width: 100px;
+    height: 100px;
+}
